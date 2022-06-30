@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-export const App = () => {
+export const AppInit = () => {
   return (
   <>
   <div>
@@ -36,3 +36,4 @@ export const App = () => {
   );
 };
 
+// export default App;
